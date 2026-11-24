@@ -1,0 +1,86 @@
+[
+  {
+    "login_uid": "8490810648",
+    "password": "LOFAR_DmGE0x9Rw6omg5dExTU6GKq1hT",
+    "game_uid": "19231864881",
+    "nickname": "LORDPWRNYEJ",
+    "server": "IND",
+    "saved_at": "2026-11-23 17:32:36"
+  },
+  {
+    "login_uid": "8490810485",
+    "password": "LOFAR_2hRx7v9jfxW7fGnOWkNMFjQO8H",
+    "game_uid": "19231864856",
+    "nickname": "LORDPWRXCFS",
+    "server": "IND",
+    "saved_at": "2026-11-23 17:32:37"
+  },
+  {
+    "login_uid": "8490814477",
+    "password": "LOFAR_OUPQyeq5xNw11EAPTYf2wrKcDf",
+    "game_uid": "19231872769",
+    "nickname": "LORDPWRYLOU",
+    "server": "IND",
+    "saved_at": "2026-11-23 17:33:17"
+  },
+  {
+    "login_uid": "8490814504",
+    "password": "LOFAR_1rDDCU2kvjOTehkDQJK6yGEIS0",
+    "game_uid": "19231872788",
+    "nickname": "LORDPWRIDCE",
+    "server": "IND",
+    "saved_at": "2026-11-23 17:33:19"
+  },
+  {
+    "login_uid": "8490814550",
+    "password": "LOFAR_WhqOeIZ6DzX2riQ4F9coBC0sQd",
+    "game_uid": "19231872845",
+    "nickname": "LORDPWRTUQA",
+    "server": "IND",
+    "saved_at": "2026-11-23 17:33:19"
+  },
+  {
+    "uid": "19231864881",
+    "password": "LOFAR_DmGE0x9Rw6omg5dExTU6GKq1hT"
+  },
+  {
+    "uid": "\"login_uid\"",
+    "password": "\"8490814550\","
+  },
+  {
+    "uid": "\"game_uid\"",
+    "password": "\"19231872845\","
+  },
+  {
+    "uid": "\"nickname\"",
+    "password": "\"LORDPWRTUQA\","
+  },
+  {
+    "uid": "\"server\"",
+    "password": "\"IND\","
+  },
+  {
+    "uid": "\"saved_at\"",
+    "password": "\"2026-11-23 17:33:19\""
+  },
+  {
+    "uid": "8490810648",
+    "password": "LOFAR_DmGE0x9Rw6omg5dExTU6GKq1hT"
+  },
+  {
+    "uid": "8490810485",
+    "password": "LOFAR_2hRx7v9jfxW7fGnOWkNMFjQO8H"
+  },
+  {
+    "uid": "8490814477",
+    "password": "LOFAR_OUPQyeq5xNw11EAPTYf2wrKcDf"
+  },
+  {
+    "uid": "\"uid\"",
+    "password": "\"8490814550\","
+  },
+  {
+    "uid": "\"password\"",
+    "password": "\"LOFAR_WhqOeIZ6DzX2riQ4F9coBC0sQd\""
+  }
+]

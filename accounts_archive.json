@@ -1,0 +1,102 @@
+[
+  {
+    "login_uid": "8490810648",
+    "password": "LOFAR_DmGE0x9Rw6omg5dExTU6GKq1hT",
+    "game_uid": "19231864881",
+    "nickname": "LORDPWRNYEJ",
+    "server": "IND",
+    "saved_at": "2026-11-23 17:32:36"
+  },
+  {
+    "login_uid": "8490810485",
+    "password": "LOFAR_2hRx7v9jfxW7fGnOWkNMFjQO8H",
+    "game_uid": "19231864856",
+    "nickname": "LORDPWRXCFS",
+    "server": "IND",
+    "saved_at": "2026-11-23 17:32:37"
+  },
+  {
+    "login_uid": "8490814477",
+    "password": "LOFAR_OUPQyeq5xNw11EAPTYf2wrKcDf",
+    "game_uid": "19231872769",
+    "nickname": "LORDPWRYLOU",
+    "server": "IND",
+    "saved_at": "2026-11-23 17:33:17"
+  },
+  {
+    "login_uid": "8490814504",
+    "password": "LOFAR_1rDDCU2kvjOTehkDQJK6yGEIS0",
+    "game_uid": "19231872788",
+    "nickname": "LORDPWRIDCE",
+    "server": "IND",
+    "saved_at": "2026-11-23 17:33:19"
+  },
+  {
+    "login_uid": "8490814550",
+    "password": "LOFAR_WhqOeIZ6DzX2riQ4F9coBC0sQd",
+    "game_uid": "19231872845",
+    "nickname": "LORDPWRTUQA",
+    "server": "IND",
+    "saved_at": "2026-11-23 17:33:19"
+  },
+  {
+    "uid": "19231864881",
+    "password": "LOFAR_DmGE0x9Rw6omg5dExTU6GKq1hT",
+    "saved_at": 1795435848
+  },
+  {
+    "uid": "\"login_uid\"",
+    "password": "\"8490810648\",",
+    "saved_at": 1795435889
+  },
+  {
+    "uid": "\"password\"",
+    "password": "\"LOFAR_DmGE0x9Rw6omg5dExTU6GKq1hT\",",
+    "saved_at": 1795435889
+  },
+  {
+    "uid": "\"game_uid\"",
+    "password": "\"19231864881\",",
+    "saved_at": 1795435889
+  },
+  {
+    "uid": "\"nickname\"",
+    "password": "\"LORDPWRNYEJ\",",
+    "saved_at": 1795435889
+  },
+  {
+    "uid": "\"server\"",
+    "password": "\"IND\",",
+    "saved_at": 1795435889
+  },
+  {
+    "uid": "\"saved_at\"",
+    "password": "\"2026-11-23 17:32:36\"",
+    "saved_at": 1795435890
+  },
+  {
+    "uid": "\"uid\"",
+    "password": "\"8490810648\",",
+    "saved_at": 1795436149
+  },
+  {
+    "uid": "8490810648",
+    "password": "LOFAR_DmGE0x9Rw6omg5dExTU6GKq1hT",
+    "saved_at": 1795436499
+  },
+  {
+    "uid": "8490810485",
+    "password": "LOFAR_2hRx7v9jfxW7fGnOWkNMFjQO8H",
+    "saved_at": 1795436519
+  },
+  {
+    "uid": "8490814477",
+    "password": "LOFAR_OUPQyeq5xNw11EAPTYf2wrKcDf",
+    "saved_at": 1795436544
+  },
+  {
+    "uid": "8490814504",
+    "password": "LOFAR_1rDDCU2kvjOTehkDQJK6yGEIS0",
+    "saved_at": 1795436568
+  }
+]
